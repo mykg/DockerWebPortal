@@ -1,6 +1,6 @@
 # Docker Portal v1
 
-*This is a docker web portal where you can manage your docker containers on web.*
+* This is a docker web portal where you can manage your docker containers on web. *
 
 * python36
 * httpd webserver
